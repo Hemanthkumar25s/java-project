@@ -1,1 +1,1 @@
-# java-project
+# java-project with JDBC connection 
